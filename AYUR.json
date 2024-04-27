@@ -1,0 +1,212 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "hi",
+        "Hii",
+        "Hey",
+        "hi there",
+        "",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting ayur-sage",
+        "Hello how are you feeling today?",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "by",
+        "byy"
+      ],
+      "responses": [
+        "See you later, thanks for visiting ayur-sage",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "talk",
+      "patterns": [
+        "Hi, How is it going?",
+        "How do you do?",
+        "Nice to meet you."
+      ],
+      "responses": [
+        "The Ayur-Sage Bot is working great! How are you feeling today?",
+        "Thank you. How can i assist you? How are you feeling today?",
+        "I'm doing well. How are you feeling today?"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!",
+        "thnx"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ]
+    },
+    {
+      "tag": "interest",
+      "patterns": [
+        "What are your interests"
+      ],
+      "responses": [
+        " I am interested in helping you in Home Made Remedies for your health!"
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        " What is your location"
+      ],
+      "responses": [
+        "I am offline. So I am present at the same location as you."
+      ]
+    },
+    {
+      "tag": "where",
+      "patterns": [
+        "Where are you from"
+      ],
+      "responses": [
+        "We are located at Kgisl institute of technology, saravanampatti, coimbatore as of now."
+      ]
+    },
+    {
+      "tag": "father",
+      "patterns": [
+        " Who is your father"
+      ],
+      "responses": [
+        "info-squad & his healthcare counselling team created me."
+      ]
+    },
+    {
+      "tag": "mother",
+      "patterns": [
+        "Who is your mother"
+      ],
+      "responses": [
+        "info-squad & his healthcare counselling team created me."
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        " What is your age"
+      ],
+      "responses": [
+        "I was created in March 2024."
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        " What is your name"
+      ],
+      "responses": [
+        "My Name is Ayur-sageBot."
+      ]
+    },
+    {
+      "tag": "Fine",
+      "patterns": [
+        "i am feeling fine",
+        "i feel fine",
+        "i feel great",
+        "fine",
+        "i feel awesome",
+        "i feel good",
+        "i am feeling good"
+      ],
+      "responses": [
+        "Good to know. How may i assist you then?"
+      ]
+    },
+
+    {
+      "tag": "love",
+      "patterns": [
+        "i love you",
+        "i have feeling for you"
+
+      ],
+      "responses": [
+        "i love you too my love...."
+      ]
+    },    
+    {
+      "tag": "health",
+      "patterns": [
+        "I feel sick",
+        "I have weakness in my body.",
+        "I am feeling weak",
+        "i am sick",
+        "i am not well",
+        "i am not feeling well"
+      ],
+      "responses": [
+        "Okay. Can you tell me what's wrong? What are your symptoms?"
+      ]
+    },
+    {
+      "tag": "jvara",
+      "patterns": [
+        "what is jvara",
+        "explain jvara"
+      ],
+      "responses": [
+        "Jvara refers to fever, and Ayurvedic treatments for fever vary depending on the underlying dosha imbalance and the specific symptoms manifested by the individual. Ayurveda, a traditional system of medicine originating in India, views health as a balance between the body, mind, and spirit, and seeks to restore balance through various means, including diet, lifestyle changes, herbal remedies, and therapies."
+      ]
+    },
+    {
+      "tag": "pinasa",
+      "patterns": [
+        "what is pinasa",
+        "explain pinasa"
+      ],
+      "responses": [
+        "Pinasa refers to common cold rhinitis or inflammation of the nasal passages. It is commonly associated with symptoms such as nasal congestion, runny nose, sneezing, and post-nasal drip. In Ayurvedic understanding, pinasa can occur due to various factors, including an imbalance in the doshas (Vata, Pitta, and Kapha), impaired digestion, exposure to allergens, or environmental factors."
+      ]
+    },
+    {
+      "tag": "vatavikara",
+      "patterns": [
+        "what is vatavikara",
+        "explain vatavikara"
+      ],
+      "responses": [
+        "In Ayurveda, Vatavikara refers to disorders or imbalances primarily related to the Vata dosha. The Vata dosha, according to Ayurvedic principles, governs movement, including movement of the body, thoughts, and emotions. When Vata becomes imbalanced, it can lead to a variety of health issues or conditions collectively referred to as Vata disorders or Vatavikara."
+      ]
+    },
+    {
+      "tag": "jvara solution",
+      "patterns": [
+        "which is best solution for jvara"
+      ],
+      "responses": [
+        "For fever symptoms, it's recommended to take rest, have gentle body massages with warm oil, use a herbal steam inhaler, and consume foods like cucumber raita and lentil dishes."
+      ]
+    }
+  ]
+}
